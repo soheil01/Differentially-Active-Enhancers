@@ -1,5 +1,5 @@
 # Differentially-Active-Enhancers
-Here we performed an integrative computational analysis of virtually all currently
+An integrative computational analysis of virtually all currently
 available epigenome data sets related to human fetal brain. 
 
 ### Codes:
