@@ -1,0 +1,10 @@
+
+ #### pCR table is created like below:  
+   
+   - first: merged all regions and count each merged region. 
+   bedtools merge -i `regions` -o count > first.bed
+   - second: find the overlap between all regions.
+   genomecoverage -i `regions` -g -bg > second.bed
+   - third : intersect first and second files. 
+   intersectBed -a first.bed -b second.bed -wa -wb > intersected_file1_file2.bed 
+   then extracted maximum fragment that made the overlap region for each group based on coordinate of merged file.
