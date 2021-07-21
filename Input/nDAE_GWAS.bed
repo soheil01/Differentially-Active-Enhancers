@@ -1,0 +1,290 @@
+chr1	2784225	2784700	chr1	2784615	2784616	Brain region volumes
+chr1	44097478	44097692	chr1	44097529	44097530	Schizophrenia
+chr1	54852432	54853075	chr1	54852993	54852994	Brain morphology (MOSTest)
+chr1	72152925	72153525	chr1	72153087	72153088	Intelligence (MTAG)
+chr1	72837062	72837795	chr1	72837238	72837239	Bipolar disorder or major depressive disorder
+chr1	72837062	72837795	chr1	72837238	72837239	Intelligence
+chr1	72837062	72837795	chr1	72837238	72837239	anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+chr1	72837062	72837795	chr1	72837489	72837490	Intelligence (MTAG)
+chr1	91247239	91247900	chr1	91247344	91247345	Cognitive function
+chr1	114948069	114948359	chr1	114948280	114948281	Autism
+chr1	150115829	150116330	chr1	150115973	150115974	Broad depression or schizophrenia
+chr1	150510479	150510779	chr1	150510659	150510660	Migraine
+chr1	150510479	150510779	chr1	150510659	150510660	Migraine and/or pulse pressure
+chr1	197498600	197499475	chr1	197499002	197499003	White matter hyperintensities
+chr1	209109292	209109690	chr1	209109555	209109556	Initial pursuit acceleration in psychotic disorders
+chr1	232246020	232247000	chr1	232246026	232246027	White matter microstructure (mode of anisotropy)
+chr10	6098701	6099088	chr10	6099044	6099045	Multiple sclerosis
+chr10	61339650	61340190	chr10	61339892	61339893	Alzheimer disease and age of onset
+chr10	106544206	106544658	chr10	106544215	106544216	Depressive symptoms (MTAG)
+chr10	106568810	106569384	chr10	106569206	106569207	Schizophrenia (MTAG)
+chr10	106568810	106569384	chr10	106569252	106569253	Attention deficit hyperactivity disorder (MTAG)
+chr10	106568810	106569384	chr10	106569252	106569253	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr10	106635738	106636353	chr10	106635996	106635997	Depression
+chr10	106635738	106636353	chr10	106635996	106635997	Depressive symptoms
+chr10	109574575	109575175	chr10	109575093	109575094	White matter microstructure in first episode schizophrenia (left posterior cingulate cortex)
+chr10	133775150	133775325	chr10	133775195	133775196	Intelligence
+chr10	133775355	133775569	chr10	133775374	133775375	Cognitive performance (MTAG)
+chr10	133775355	133775569	chr10	133775374	133775375	Intelligence (MTAG)
+chr11	14224328	14225150	chr11	14224345	14224346	Alzheimer's disease (cognitive decline)
+chr11	14402600	14403220	chr11	14402929	14402930	Multiple sclerosis
+chr11	24381808	24382024	chr11	24381897	24381898	Schizophrenia
+chr11	28497470	28497849	chr11	28497638	28497639	Depressive symptoms (MTAG)
+chr11	47275966	47276850	chr11	47276674	47276675	Depressed affect
+chr11	60081052	60081386	chr11	60081273	60081274	Alzheimer's disease or family history of Alzheimer's disease
+chr11	65705208	65705541	chr11	65705431	65705432	Multiple sclerosis
+chr11	66041000	66041368	chr11	66041078	66041079	Insomnia
+chr11	85812490	85813330	chr11	85812784	85812785	Alzheimer's disease or family history of Alzheimer's disease
+chr11	88913361	88914118	chr11	88913662	88913663	Depression (broad)
+chr11	118743258	118743948	chr11	118743285	118743286	Multiple sclerosis
+chr12	32242400	32242970	chr12	32242446	32242447	Parkinson's disease
+chr12	58106500	58107331	chr12	58106835	58106836	Multiple sclerosis
+chr12	65724100	65724825	chr12	65724220	65724221	Brain region volumes
+chr12	65766000	65766875	chr12	65766497	65766498	Brain region volumes
+chr12	65824782	65825119	chr12	65824845	65824846	Brain region volumes
+chr12	65905013	65905492	chr12	65905125	65905126	Brain region volumes
+chr12	93327275	93328050	chr12	93327910	93327911	Cognitive aspects of educational attainment
+chr12	93327275	93328050	chr12	93327910	93327911	Cognitive performance
+chr12	102850102	102850466	chr12	102850222	102850223	Brain region volumes
+chr12	107062910	107063455	chr12	107063339	107063340	Brain region volumes
+chr12	117291201	117291649	chr12	117291590	117291591	Brain region volumes
+chr12	121204876	121205332	chr12	121205077	121205078	Depression
+chr13	22978359	22979325	chr13	22978752	22978753	Subcortical volume (MOSTest)
+chr13	58276300	58276850	chr13	58276364	58276365	Intelligence (MTAG)
+chr14	31147384	31148227	chr14	31147497	31147498	Amyotrophic lateral sclerosis
+chr14	41824325	41824614	chr14	41824443	41824444	Depressive symptoms
+chr14	55921232	55921639	chr14	55921560	55921561	Brain region volumes
+chr14	59628270	59628820	chr14	59628608	59628609	Brain morphology (MOSTest)
+chr14	59628270	59628820	chr14	59628608	59628609	Brain region volumes
+chr14	59628270	59628820	chr14	59628678	59628679	Brain region volumes
+chr14	59628270	59628820	chr14	59628678	59628679	Cortical surface area
+chr14	59628270	59628820	chr14	59628678	59628679	Cortical surface area (MOSTest)
+chr14	59628270	59628820	chr14	59628678	59628679	Cortical thickness (MOSTest)
+chr14	75237283	75237789	chr14	75237769	75237770	Depressed affect
+chr14	93107329	93108183	chr14	93108130	93108131	Brain morphology (min-P)
+chr14	93107329	93108183	chr14	93108130	93108131	Subcortical volume (min-P)
+chr15	58259675	58260425	chr15	58259938	58259939	White matter microstructure (mean diusivities)
+chr15	58259675	58260425	chr15	58259938	58259939	White matter microstructure (radial diusivities)
+chr15	71621199	71621919	chr15	71621561	71621562	Brain morphology (MOSTest)
+chr15	71621199	71621919	chr15	71621561	71621562	Cortical surface area (MOSTest)
+chr15	78101900	78102017	chr15	78101908	78101909	Depressed affect
+chr15	98433125	98434000	chr15	98433405	98433406	Brain morphology (MOSTest)
+chr16	13747717	13747924	chr16	13747802	13747803	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr16	13750166	13750378	chr16	13750256	13750257	Bipolar disorder or major depressive disorder
+chr16	13753307	13753400	chr16	13753383	13753384	Schizophrenia
+chr16	13753307	13753400	chr16	13753383	13753384	Schizophrenia (MTAG)
+chr16	15155834	15156308	chr16	15155897	15155898	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr16	19276900	19277750	chr16	19277492	19277493	Parkinson's disease or first degree relation to individual with Parkinson's disease
+chr16	28336613	28337133	chr16	28336881	28336882	Intelligence (MTAG)
+chr16	28543216	28543740	chr16	28543380	28543381	Intelligence (MTAG)
+chr16	28574270	28574917	chr16	28574614	28574615	Intelligence (MTAG)
+chr16	29929559	29929765	chr16	29929727	29929728	Subcortical volume (MOSTest)
+chr16	62074925	62075900	chr16	62075137	62075138	Cognitive aspects of educational attainment
+chr16	62074925	62075900	chr16	62075137	62075138	Cognitive performance
+chr16	62074925	62075900	chr16	62075137	62075138	Intelligence
+chr16	65014174	65014945	chr16	65014908	65014909	Cortical surface area
+chr16	69127801	69128053	chr16	69128052	69128053	Brain morphology (MOSTest)
+chr16	75441975	75442268	chr16	75442144	75442144	Migraine
+chr17	26719660	26719996	chr17	26719787	26719788	Amyotrophic lateral sclerosis
+chr17	26719660	26719996	chr17	26719787	26719788	Amyotrophic lateral sclerosis (sporadic)
+chr17	27941525	27941951	chr17	27941885	27941886	Brain morphology (MOSTest)
+chr17	27941525	27941951	chr17	27941885	27941886	Cortical thickness (MOSTest)
+chr17	28463932	28464519	chr17	28464473	28464474	Brain region volumes
+chr17	29628639	29629505	chr17	29629325	29629326	Subcortical volume (MOSTest)
+chr17	40507802	40508200	chr17	40507979	40507980	Multiple sclerosis
+chr17	43150818	43151565	chr17	43151472	43151473	White matter microstructure (axial diusivities)
+chr17	43176362	43176855	chr17	43176803	43176804	Insomnia
+chr17	43255112	43255863	chr17	43255680	43255681	Insomnia symptoms (never/rarely vs. sometimes/usually)
+chr17	43255112	43255863	chr17	43255680	43255681	Insomnia symptoms (never/rarely vs. usually)
+chr17	43718795	43719560	chr17	43719142	43719143	Corticobasal degeneration
+chr17	43718795	43719560	chr17	43719142	43719143	Parkinson's disease
+chr17	43743975	43744475	chr17	43744202	43744203	Parkinson's disease
+chr17	43743975	43744475	chr17	43744202	43744203	Parkinson's disease or first degree relation to individual with Parkinson's disease
+chr17	43743975	43744475	chr17	43744202	43744203	White matter microstructure (radial diusivities)
+chr17	43902451	43902698	chr17	43902540	43902541	Cognitive aspects of educational attainment
+chr17	44206500	44207150	chr17	44206664	44206665	Subcortical volume (MOSTest)
+chr17	60794925	60795100	chr17	60795073	60795074	Depressive symptoms
+chr17	63914705	63915300	chr17	63914749	63914750	Cortical surface area
+chr17	78246628	78247411	chr17	78246733	78246734	Migraine and/or systolic blood pressure
+chr18	38003250	38003825	chr18	38003409	38003410	Brain morphology (MOSTest)
+chr18	50746616	50746866	chr18	50746747	50746748	Schizophrenia (MTAG)
+chr18	50816455	50817084	chr18	50816579	50816580	Brain region volumes
+chr18	50899053	50899618	chr18	50899146	50899146	Brain region volumes
+chr18	53296350	53296970	chr18	53296926	53296927	Depressed affect
+chr18	53768940	53769150	chr18	53768974	53768975	Schizophrenia
+chr18	56189167	56190130	chr18	56189458	56189459	Alzheimer's disease or family history of Alzheimer's disease
+chr18	67543878	67544070	chr18	67544045	67544046	Multiple sclerosis
+chr19	11173873	11174457	chr19	11173927	11173928	Multiple sclerosis
+chr19	13292560	13293030	chr19	13292744	13292745	Cortical surface area
+chr19	19477956	19478050	chr19	19478021	19478022	Schizophrenia
+chr19	30987410	30987523	chr19	30987422	30987423	Schizophrenia
+chr19	45326340	45326960	chr19	45326663	45326664	Alzheimer's disease
+chr19	45363449	45363812	chr19	45363699	45363700	Alzheimer's disease or family history of Alzheimer's disease
+chr19	45368066	45368478	chr19	45368319	45368320	Alzheimer's disease or family history of Alzheimer's disease
+chr19	45411076	45411334	chr19	45411109	45411110	Alzheimer's disease or family history of Alzheimer's disease
+chr19	45814977	45815500	chr19	45815247	45815248	Cognitive performance (MTAG)
+chr2	4553975	4554418	chr2	4554303	4554304	Cortical surface area
+chr2	21200435	21201401	chr2	21200518	21200519	White matter microstructure (mode of anisotropy)
+chr2	57961419	57961635	chr2	57961601	57961602	Schizophrenia (MTAG)
+chr2	58382235	58382723	chr2	58382489	58382490	Depression
+chr2	58382235	58382723	chr2	58382489	58382490	Schizophrenia
+chr2	80281100	80281710	chr2	80281172	80281173	Alzheimer's disease (cognitive decline)
+chr2	112770618	112770966	chr2	112770798	112770799	Multiple sclerosis
+chr2	146419947	146420155	chr2	146420103	146420104	Schizophrenia
+chr2	150036701	150037425	chr2	150037200	150037201	Cortical surface area
+chr2	162822604	162822755	chr2	162822708	162822709	Cortical surface area
+chr2	183376425	183376925	chr2	183376486	183376487	Intelligence (MTAG)
+chr2	186044490	186044930	chr2	186044626	186044627	Schizophrenia
+chr2	188184140	188185000	chr2	188184434	188184435	Brain morphology (MOSTest)
+chr2	188184140	188185000	chr2	188184434	188184435	Cortical surface area (MOSTest)
+chr2	188277852	188278248	chr2	188278202	188278203	Cortical surface area
+chr2	193848311	193848403	chr2	193848339	193848340	Autism spectrum disorder or schizophrenia
+chr2	193848311	193848403	chr2	193848339	193848340	Bipolar disorder (MTAG)
+chr2	193848311	193848403	chr2	193848339	193848340	Schizophrenia
+chr2	193848311	193848403	chr2	193848339	193848340	Schizophrenia (MTAG)
+chr2	193848311	193848403	chr2	193848339	193848340	anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+chr2	198293605	198293813	chr2	198293690	198293691	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr2	217330400	217330950	chr2	217330900	217330901	White matter microstructure (fractional anisotropy)
+chr2	217330400	217330950	chr2	217330900	217330901	White matter microstructure (mean diusivities)
+chr2	217330400	217330950	chr2	217330900	217330901	White matter microstructure (radial diusivities)
+chr2	226353169	226353798	chr2	226353553	226353554	Depressive symptoms
+chr2	233592391	233592608	chr2	233592500	233592501	Autism spectrum disorder or schizophrenia
+chr2	233592391	233592608	chr2	233592500	233592501	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr2	233592391	233592608	chr2	233592500	233592501	Schizophrenia
+chr2	233592391	233592608	chr2	233592500	233592501	Schizophrenia (MTAG)
+chr2	236899899	236900879	chr2	236900632	236900633	Insomnia
+chr20	2882758	2883552	chr20	2882930	2882931	Brain region volumes
+chr20	3164432	3164884	chr20	3164685	3164686	Parkinson's disease or first degree relation to individual with Parkinson's disease
+chr20	34022075	34022495	chr20	34022386	34022387	Brain morphology (MOSTest)
+chr20	44680510	44680900	chr20	44680852	44680853	Depression
+chr20	44680510	44680900	chr20	44680852	44680853	Depressive symptoms
+chr20	45840024	45840749	chr20	45840458	45840459	Depressive symptoms (MTAG)
+chr20	47770375	47770863	chr20	47770755	47770756	Depressive symptoms
+chr20	47770375	47770863	chr20	47770755	47770756	Depressive symptoms (MTAG)
+chr20	47788498	47789337	chr20	47788774	47788775	Cognitive ability (MTAG)
+chr20	48041126	48041370	chr20	48041210	48041211	Depression
+chr20	48041126	48041370	chr20	48041210	48041211	Depressive symptoms
+chr20	52456094	52456530	chr20	52456444	52456445	Cortical surface area (MOSTest)
+chr20	52464049	52464731	chr20	52464696	52464697	Brain morphology (MOSTest)
+chr21	34787258	34787647	chr21	34787311	34787312	Multiple sclerosis
+chr22	22131097	22131342	chr22	22131124	22131125	Multiple sclerosis
+chr22	39982641	39982874	chr22	39982720	39982721	Cognitive ability (MTAG)
+chr3	12230361	12230743	chr3	12230703	12230704	Depressive symptoms
+chr3	23962308	23963114	chr3	23962645	23962646	Intelligence (MTAG)
+chr3	49492175	49492625	chr3	49492480	49492481	Glioma
+chr3	49541343	49541770	chr3	49541700	49541700	White matter microstructure (mode of anisotropy)
+chr3	49768720	49769180	chr3	49768926	49768927	Cognitive performance (MTAG)
+chr3	50067324	50067470	chr3	50067349	50067350	Intelligence (MTAG)
+chr3	52246862	52247489	chr3	52247313	52247314	Depressive symptoms
+chr3	52845076	52845250	chr3	52845104	52845105	Schizophrenia
+chr3	52845076	52845250	chr3	52845104	52845105	Schizophrenia (MTAG)
+chr3	62385983	62386231	chr3	62386074	62386075	Brain region volumes
+chr3	136309692	136309771	chr3	136309709	136309710	Schizophrenia (MTAG)
+chr3	138696300	138697050	chr3	138696438	138696439	Brain morphology (MOSTest)
+chr3	146367942	146368340	chr3	146368186	146368187	Brain region volumes
+chr3	154289150	154290050	chr3	154289945	154289946	Migraine
+chr3	169579500	169580050	chr3	169579970	169579971	Glioma (high-grade)
+chr3	175937941	175938285	chr3	175938064	175938065	Depressive symptoms
+chr3	183641998	183642314	chr3	183642043	183642044	White matter microstructure (mean diusivities)
+chr3	183641998	183642314	chr3	183642043	183642044	White matter microstructure (radial diusivities)
+chr4	19053375	19053925	chr4	19053758	19053759	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr4	19095590	19095981	chr4	19095651	19095652	Cortical surface area
+chr4	67969850	67970425	chr4	67970100	67970101	Cognitive aspects of educational attainment
+chr4	67969850	67970425	chr4	67970100	67970101	Cognitive performance
+chr4	67969850	67970425	chr4	67970100	67970101	Intelligence
+chr4	170626367	170626579	chr4	170626551	170626552	Autism spectrum disorder or schizophrenia
+chr4	170626367	170626579	chr4	170626551	170626552	Schizophrenia
+chr5	45301004	45301220	chr5	45301034	45301035	Autism spectrum disorder or schizophrenia
+chr5	45301004	45301220	chr5	45301034	45301035	Schizophrenia
+chr5	50754090	50754880	chr5	50754546	50754547	Brain region volumes
+chr5	59980500	59981425	chr5	59981084	59981085	Intelligence (MTAG)
+chr5	60273789	60274049	chr5	60273922	60273923	Parkinson's disease
+chr5	60800158	60800450	chr5	60800335	60800336	Intelligence (MTAG)
+chr5	66112250	66112750	chr5	66112714	66112715	Total hippocampal volume
+chr5	82841470	82841700	chr5	82841475	82841476	White matter microstructure (fractional anisotropy)
+chr5	92187800	92188300	chr5	92187931	92187932	Cognitive performance (MTAG)
+chr5	92187800	92188300	chr5	92187931	92187932	Cortical surface area
+chr5	103885964	103886246	chr5	103886212	103886213	Depressive symptoms
+chr5	103981345	103982259	chr5	103981725	103981726	Depression (broad)
+chr5	118124660	118125640	chr5	118125236	118125237	Brain morphology (min-P)
+chr5	118124660	118125640	chr5	118125236	118125237	Subcortical volume (min-P)
+chr5	137711936	137712146	chr5	137712120	137712121	Bipolar disorder (MTAG)
+chr5	137711936	137712146	chr5	137712120	137712121	Schizophrenia (MTAG)
+chr5	137711936	137712146	chr5	137712120	137712121	anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+chr6	16672581	16672778	chr6	16672759	16672760	Multiple sclerosis
+chr6	19035960	19036325	chr6	19036034	19036035	Intelligence (MTAG)
+chr6	20893050	20893550	chr6	20893246	20893247	Intelligence
+chr6	29415260	29415790	chr6	29415463	29415464	Depression (broad)
+chr6	31891944	31892665	chr6	31892640	31892641	Cognitive performance (MTAG)
+chr6	32335921	32336339	chr6	32336186	32336187	Multiple sclerosis
+chr6	32489450	32490050	chr6	32489595	32489596	Autism spectrum disorder or schizophrenia
+chr6	32489450	32490050	chr6	32489794	32489795	Autism spectrum disorder or schizophrenia
+chr6	32552050	32552625	chr6	32552447	32552448	Autism spectrum disorder or schizophrenia
+chr6	33515200	33515848	chr6	33515519	33515520	Schizophrenia
+chr6	34828512	34828786	chr6	34828552	34828553	Insomnia
+chr6	36348675	36349225	chr6	36348688	36348689	Multiple sclerosis
+chr6	41128500	41129250	chr6	41129206	41129207	Alzheimer's disease (late onset)
+chr6	41128500	41129250	chr6	41129206	41129207	Alzheimer's disease or family history of Alzheimer's disease
+chr6	93967792	93968356	chr6	93968161	93968162	Cognitive performance (MTAG)
+chr6	97056956	97057427	chr6	97056978	97056979	Migraine without aura
+chr6	98312250	98313229	chr6	98313222	98313223	Cognitive ability (MTAG)
+chr6	98312250	98313229	chr6	98313222	98313223	Intelligence (MTAG)
+chr6	98328662	98328948	chr6	98328773	98328774	Intelligence (MTAG)
+chr6	98464577	98465064	chr6	98464607	98464608	Intelligence
+chr6	98585148	98585693	chr6	98585501	98585502	Cognitive ability
+chr6	98585148	98585693	chr6	98585501	98585502	Cognitive ability (MTAG)
+chr6	98585148	98585693	chr6	98585501	98585502	Intelligence
+chr6	98585148	98585693	chr6	98585501	98585502	Intelligence (MTAG)
+chr6	126717061	126717938	chr6	126717063	126717064	Brain region volumes
+chr6	126717061	126717938	chr6	126717063	126717064	Cortical surface area (visual PC2)
+chr7	2194604	2194862	chr7	2194606	2194607	Cognitive performance (MTAG)
+chr7	16707480	16708260	chr7	16707860	16707861	Alzheimer's disease (cognitive decline)
+chr7	24177650	24178430	chr7	24177872	24177873	Cognitive performance (MTAG)
+chr7	24717913	24718130	chr7	24717968	24717969	Schizophrenia
+chr7	24717913	24718130	chr7	24717968	24717969	Schizophrenia (MTAG)
+chr7	32333568	32333700	chr7	32333641	32333642	Cognitive ability
+chr7	32333568	32333700	chr7	32333641	32333642	Cognitive ability (MTAG)
+chr7	55011693	55012250	chr7	55012096	55012097	White matter microstructure (fractional anisotropy)
+chr7	80044280	80045240	chr7	80045197	80045198	Cognitive decline rate in late mild cognitive impairment
+chr7	100361334	100361666	chr7	100361391	100361391	White matter hyperintensities
+chr7	101056900	101057790	chr7	101057492	101057493	Brain morphology (MOSTest)
+chr7	110074194	110074410	chr7	110074275	110074276	Autism spectrum disorder or schizophrenia
+chr7	110074194	110074410	chr7	110074275	110074276	Schizophrenia
+chr7	110898852	110899059	chr7	110898914	110898915	Autism spectrum disorder or schizophrenia
+chr7	110898852	110899059	chr7	110898914	110898915	Schizophrenia
+chr7	110898852	110899059	chr7	110898914	110898915	anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+chr7	111078774	111078963	chr7	111078911	111078912	Schizophrenia
+chr7	111134035	111134250	chr7	111134056	111134057	Schizophrenia (MTAG)
+chr8	4180683	4180888	chr8	4180843	4180844	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+chr8	4180683	4180888	chr8	4180843	4180844	Schizophrenia
+chr8	4182991	4183099	chr8	4183056	4183057	Schizophrenia
+chr8	9619124	9619507	chr8	9619347	9619348	White matter microstructure (fractional anisotropy)
+chr8	18407629	18407922	chr8	18407857	18407858	Schizophrenia
+chr8	27398576	27399100	chr8	27398619	27398620	Alzheimer's disease or family history of Alzheimer's disease
+chr8	71563780	71564675	chr8	71564666	71564667	Cortical surface area
+chr8	111471872	111472106	chr8	111472013	111472014	Schizophrenia
+chr8	111478214	111478343	chr8	111478320	111478321	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr8	111505919	111506650	chr8	111506564	111506565	Schizophrenia
+chr8	127353355	127353569	chr8	127353537	127353538	Alzheimer disease and age of onset
+chr8	143312783	143312954	chr8	143312932	143312933	Anxiety/tension (special factor of neuroticism)
+chr8	143312783	143312954	chr8	143312932	143312933	Autism spectrum disorder or schizophrenia
+chr8	143312783	143312954	chr8	143312932	143312933	Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+chr8	143312783	143312954	chr8	143312932	143312933	Depressive symptoms
+chr8	143312783	143312954	chr8	143312932	143312933	Schizophrenia
+chr8	143312783	143312954	chr8	143312932	143312933	Schizophrenia (MTAG)
+chr8	143312783	143312954	chr8	143312932	143312933	anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+chr8	144985973	144986665	chr8	144986102	144986103	White matter microstructure (mean diusivities)
+chr8	144985973	144986665	chr8	144986102	144986103	White matter microstructure (radial diusivities)
+chr9	2197484	2198048	chr9	2197986	2197987	Brain morphology (MOSTest)
+chr9	2197484	2198048	chr9	2197986	2197987	Brain morphology (min-P)
+chr9	2197484	2198048	chr9	2197986	2197987	Subcortical volume (MOSTest)
+chr9	2197484	2198048	chr9	2197986	2197987	Subcortical volume (min-P)
+chr9	22031791	22032204	chr9	22032151	22032152	Glioblastoma
+chr9	22031791	22032204	chr9	22032151	22032152	Glioblastoma (age-stratified)
+chr9	22031791	22032204	chr9	22032151	22032152	Glioma
+chr9	96392800	96393020	chr9	96392814	96392815	Insomnia
+chr9	103877320	103877760	chr9	103877450	103877451	Parkinson's disease (age at diagnosis)
+chr9	118953975	118954730	chr9	118954623	118954624	Brain region volumes
+chr9	119733087	119733669	chr9	119733379	119733380	Bipolar disorder or major depressive disorder
+chr9	119733087	119733669	chr9	119733594	119733595	Depression
+chr9	127893726	127894397	chr9	127893863	127893864	Subcortical volume (MOSTest)
